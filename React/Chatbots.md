@@ -9,7 +9,7 @@ react-web-chat
 [react-file-showable-chat-ui](https://www.npmjs.com/package/react-file-showable-chat-ui)
 
 
-#### [react-chat-elements](https://www.npmjs.com/package/react-chat-elements)
+### [react-chat-elements](https://www.npmjs.com/package/react-chat-elements)
 Set of reusable elements designed specifically for chatbots
 - ChatItem
 - MessageBox
