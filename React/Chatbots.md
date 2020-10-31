@@ -11,10 +11,10 @@ react-web-chat
 
 ### [react-chat-elements](https://www.npmjs.com/package/react-chat-elements)
 Set of reusable elements designed specifically for chatbots
-|                 |               |           |            |                   |
-|---              |---            |---        |---         |---                |
-| - ChatItem      | - MessageList | - Button  | - Navbar   | - LocationMessage |
-| - MessageBox    | - ChatList    | - Popup   | - Dropdown | - SpotifyMessage  |
-| - SystemMessage | - Input       | - SideBar | - Avatar   | - MeetingItem     |
-| - MeetingList   |               |           |            |                   |
+|               |             |         |          |                 |
+|---            |---          |---      |---       |---              |
+| ChatItem      | MessageList | Button  | Navbar   | LocationMessage |
+| MessageBox    | ChatList    | Popup   | Dropdown | SpotifyMessage  |
+| SystemMessage | Input       | SideBar | Avatar   | MeetingItem     |
+| MeetingList   |             |         |          |                 |
 
