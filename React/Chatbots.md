@@ -21,7 +21,7 @@ Stream-chat-js is the official JavaScript client for Stream Chat, a service for 
 ### [stream-chat-react-native-core](https://www.npmjs.com/package/stream-chat-react-native-core) and [Core](https://www.npmjs.com/package/@carrybible/react-native-stream-chat-core)
 The official React Native and Expo components for Stream Chat, a service for building chat applications.
 
-### [@chatui/core[(https://www.npmjs.com/package/@chatui/core)
+### [@chatui/core](https://www.npmjs.com/package/@chatui/core)
 - 😎 Best Practices: The best practice for chat interaction based on our experience of Alime Chatbot
 - 🛡 TypeScript: Written in TypeScript with predictable static types
 - 📱 Responsive: Responsive design to adapt automatically to whatever device
