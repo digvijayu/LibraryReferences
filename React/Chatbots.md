@@ -22,8 +22,13 @@ Stream-chat-js is the official JavaScript client for Stream Chat, a service for 
 The official React Native and Expo components for Stream Chat, a service for building chat applications.
 
 ### [@chatui/core[(https://www.npmjs.com/package/@chatui/core)
+- 😎 Best Practices: The best practice for chat interaction based on our experience of Alime Chatbot
+- 🛡 TypeScript: Written in TypeScript with predictable static types
+- 📱 Responsive: Responsive design to adapt automatically to whatever device
+- ♿ Accessibility: Accessibility support and get the certification from Accessibility Research Association
+- 🎨 Theming: Powerful theme customization in every detail
+- 🌍 International: Internationalization support for dozens of languages
 
-###[react-chat-widget](https://www.npmjs.com/package/react-chat-widget)
 
 ### [react-chat-ui](https://www.npmjs.com/package/react-chat-ui)
 A library of React components for building chat UI's.
@@ -40,15 +45,11 @@ react-chatbot-kit provides an easy way to get started building chatbots.
 ### [react-file-showable-chat-ui](https://www.npmjs.com/package/react-file-showable-chat-ui) 
 A library of React components for building chat UI's.
 
-react-simple-chatbot
+### [react-simple-chatbot](https://www.npmjs.com/package/react-simple-chatbot)
+A simple chatbot component to create conversation chats
 
-react-chatbot-kit
-
-react-chatbot-window
-
-react-web-chat
-
-[react-file-showable-chat-ui](https://www.npmjs.com/package/react-file-showable-chat-ui)
+### [react-file-showable-chat-ui](https://www.npmjs.com/package/react-file-showable-chat-ui)
+A library of React components for building chat UI's.
 
 
 ### [react-chat-elements](https://www.npmjs.com/package/react-chat-elements) and [Native](https://www.npmjs.com/package/react-chat-elements-av)
